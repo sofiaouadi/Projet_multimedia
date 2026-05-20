@@ -160,10 +160,10 @@ sp(0.8)
 
 # champs auteurs
 fields = [
-    ["Realise par :", "____________________________________"],
-    ["",              "____________________________________"],
+    ["Realise par :", "OUADI Sofia / GUENIF Rania Nour El Houda"],
+    ["Matricules :",  "222231355609  /  222231602511"],
     ["Annee universitaire :", "2025 / 2026"],
-    ["Date :", "Mai 2026"],
+    ["Section :", "M1 IL Groupe 02"],
 ]
 ft = Table(fields, colWidths=[5*cm, 10*cm])
 ft.setStyle(TableStyle([
